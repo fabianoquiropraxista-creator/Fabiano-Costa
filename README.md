@@ -17,11 +17,11 @@ Eu sou Fabiano Costa 🤙🚀
 
 ### Projetos
 
-[![Readme Card](httpsgithub-readme-stats.vercel.appapipinusername=Fabiano-Costa&repo=variavel&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fabiano-Costa&repo=variavel&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)](https://github.com/Fabiano-Costa/variavel)
 
 ### Linguagens utilizadas
 
-[![Top Langs](httpsgithub-readme-stats.vercel.appapitop-langsusername=Fabiano-Costa&layout=compact)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiano-Costa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Contatos
