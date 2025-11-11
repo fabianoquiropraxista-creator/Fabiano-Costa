@@ -1,8 +1,9 @@
-## Olá, meu nome é Fabiano Costa.
+Olá, eu sou Fabiano Costa!
+=
 
-##### Entusiasta de código aberto e tecnologia.
-##### Dedico meu tempo ao desenvolvimento front-end, sempre buscando novos desafios. 
-##### Brasil é a minha localização.
+Entusiasta de tecnologia e código aberto.
+Dedico parte do meu tempo ao desenvolvimento front-end, sempre em buscando novos desafios. 
+Brasil é a minha residência.
 
 
 
