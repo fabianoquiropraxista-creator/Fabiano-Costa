@@ -13,7 +13,7 @@ Eu sou Fabiano Costa 🤙🚀
 
 ### Detalhes
 
-[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=Fabiano-Costa&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=Fabiano-Costa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub" />
 
 ### Projetos
 
