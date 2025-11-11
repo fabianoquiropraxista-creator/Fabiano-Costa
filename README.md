@@ -26,7 +26,6 @@ Eu sou Fabiano Costa 🤙🚀
 
 ### Contatos
 
-[img src='httpsimg.shields.iobadgeLinkedIn-0077B5style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'](httpswww.linkedin.cominpedrobrocaldi)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiano-costa-b80a6119a/)
 
 
